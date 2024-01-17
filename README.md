@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning computer sience
 - 💞️ I’m looking to collaborate on computer programming
 - 📫 How to reach me
-- phone number: +255 622 518 85
+- phone number: +255 622 518 685
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
