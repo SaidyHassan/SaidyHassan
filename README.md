@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaidyHassan
+- 👋 Hi, I’m @Saidy Hassan
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning computer sience
 - 💞️ I’m looking to collaborate on computer programming
